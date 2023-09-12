@@ -121,7 +121,7 @@ namespace elso
                 Console.WriteLine(9 - c);
             }
 
-
+            
 
         }
     }

@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\bin\Debug\bekeres.exe.config
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\bin\Debug\bekeres.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\bin\Debug\bekeres.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\obj\Debug\bekeres.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\obj\Debug\bekeres.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\obj\Debug\bekeres.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\bekeres\bekeres\obj\Debug\bekeres.pdb
