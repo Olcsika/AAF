@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\bin\Debug\gyakrolas.exe.config
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\bin\Debug\gyakrolas.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\bin\Debug\gyakrolas.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\obj\Debug\gyakrolas.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\obj\Debug\gyakrolas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\obj\Debug\gyakrolas.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakrolas\gyakrolas\obj\Debug\gyakrolas.pdb
