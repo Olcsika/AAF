@@ -1,0 +1,15 @@
+table,tr,td
+{
+    background-color: white;
+    border: solid darkblue 2px;    
+}
+body
+{
+    background-color: cornflowerblue;
+}
+table
+{
+    margin: auto;
+}
+
+

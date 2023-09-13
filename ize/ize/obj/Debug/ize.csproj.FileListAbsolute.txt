@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\bin\Debug\ize.exe.config
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\bin\Debug\ize.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\bin\Debug\ize.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\obj\Debug\ize.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\obj\Debug\ize.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\obj\Debug\ize.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\ize\ize\obj\Debug\ize.pdb
