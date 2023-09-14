@@ -1,6 +1,6 @@
-table,tr,td
+td
 {
-    background-color: white;
+ 
     border: solid darkblue 2px;    
 }
 body
@@ -10,6 +10,40 @@ body
 table
 {
     margin: auto;
+    
+}
+tr:nth-child(odd)
+{
+    background-color:yellow;
 }
 
+tr:nth-child(even)
+{
+    background-color: lawngreen;
+}
+tr:nth-child(6)
+{
+    font-size: larger;
+}
+tr:nth-child(10) td
+{
 
+    border: 10px solid black;
+}
+tr:nth-child(n+6) 
+{
+    font-family: Verdana;
+}
+tr:hover:nth-child(odd)
+{
+    background-color:white;
+}
+
+tr:hover:nth-child(even)
+{
+    background-color: gray;
+}
+body:hover
+{
+    background-color: blueviolet;
+}
