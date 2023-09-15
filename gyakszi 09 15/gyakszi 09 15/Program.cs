@@ -6,7 +6,7 @@ for  (int i = 0;i<szam;i++)
 {
     Console.WriteLine(i * 10);
 }
-*/
+
 Console.Write("Kérek egy számot: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
@@ -20,8 +20,25 @@ for (int i = 1; i<=a;i++)
     Console.WriteLine();
 
 }
-for (int k = 1;k < 999; k++)
+
+
+int szam = 0;
+for (int k = 1;k <= 999; k++)
 {
-    Console.WriteLine(k+k);
+    szam += k;
+    if (szam<999)
+    {
+        
+        Console.WriteLine(szam);
+    }
+    else
+    {
+        Console.WriteLine(k-1);
+        break;
+    }
+    
 
 }
+*/
+Console.Write("Kérek egy kétjegyű számot :");
+int szam = Convert.ToInt32(Console.ReadLine());
