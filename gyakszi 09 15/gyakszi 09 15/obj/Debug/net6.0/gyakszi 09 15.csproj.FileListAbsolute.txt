@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\bin\Debug\net6.0\gyakszi 09 15.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\bin\Debug\net6.0\gyakszi 09 15.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\bin\Debug\net6.0\gyakszi 09 15.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\bin\Debug\net6.0\gyakszi 09 15.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\bin\Debug\net6.0\gyakszi 09 15.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\refint\gyakszi 09 15.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\gyakszi 09 15.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakszi 09 15\gyakszi 09 15\obj\Debug\net6.0\ref\gyakszi 09 15.dll

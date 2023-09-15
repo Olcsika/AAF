@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\bin\Debug\net6.0\dwdwddwd.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\bin\Debug\net6.0\dwdwddwd.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\bin\Debug\net6.0\dwdwddwd.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\bin\Debug\net6.0\dwdwddwd.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\bin\Debug\net6.0\dwdwddwd.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\refint\dwdwddwd.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\dwdwddwd.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\dwdwddwd\dwdwddwd\obj\Debug\net6.0\ref\dwdwddwd.dll
