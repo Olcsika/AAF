@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\bin\Debug\net6.0\atvaltas.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\bin\Debug\net6.0\atvaltas.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\bin\Debug\net6.0\atvaltas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\bin\Debug\net6.0\atvaltas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\bin\Debug\net6.0\atvaltas.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\refint\atvaltas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\atvaltas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvaltas\atvaltas\obj\Debug\net6.0\ref\atvaltas.dll

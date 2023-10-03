@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\bin\Debug\net6.0\atvalto cucc mértékegység.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\bin\Debug\net6.0\atvalto cucc mértékegység.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\bin\Debug\net6.0\atvalto cucc mértékegység.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\bin\Debug\net6.0\atvalto cucc mértékegység.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\bin\Debug\net6.0\atvalto cucc mértékegység.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\refint\atvalto cucc mértékegység.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\atvalto cucc mértékegység.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\atvalto cucc mértékegység\atvalto cucc mértékegység\obj\Debug\net6.0\ref\atvalto cucc mértékegység.dll
