@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gyakorlas tömb 10.11/1.0.0": {
+        "runtime": {
+          "gyakorlas tömb 10.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gyakorlas tömb 10.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

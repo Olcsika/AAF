@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\bin\Debug\net6.0\gyakorlas tömb 10.11.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\bin\Debug\net6.0\gyakorlas tömb 10.11.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\bin\Debug\net6.0\gyakorlas tömb 10.11.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\bin\Debug\net6.0\gyakorlas tömb 10.11.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\bin\Debug\net6.0\gyakorlas tömb 10.11.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\refint\gyakorlas tömb 10.11.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\gyakorlas tömb 10.11.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas tömb 10.11\gyakorlas tömb 10.11\obj\Debug\net6.0\ref\gyakorlas tömb 10.11.dll
