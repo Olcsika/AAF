@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladat amit a pepa mondott péntek 13", "feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13.csproj", "{07A809EE-B51D-4B71-B5EE-E71BB38847F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A809EE-B51D-4B71-B5EE-E71BB38847F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A809EE-B51D-4B71-B5EE-E71BB38847F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A809EE-B51D-4B71-B5EE-E71BB38847F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A809EE-B51D-4B71-B5EE-E71BB38847F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02B5DE8-D182-43A4-9C6D-D6FF70DB14DE}
+	EndGlobalSection
+EndGlobal

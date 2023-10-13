@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "feladat amit a pepa mondott péntek 13/1.0.0": {
+        "runtime": {
+          "feladat amit a pepa mondott péntek 13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "feladat amit a pepa mondott péntek 13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

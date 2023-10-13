@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\bin\Debug\net6.0\feladat amit a pepa mondott péntek 13.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\bin\Debug\net6.0\feladat amit a pepa mondott péntek 13.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\bin\Debug\net6.0\feladat amit a pepa mondott péntek 13.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\bin\Debug\net6.0\feladat amit a pepa mondott péntek 13.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\bin\Debug\net6.0\feladat amit a pepa mondott péntek 13.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\refint\feladat amit a pepa mondott péntek 13.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\feladat amit a pepa mondott péntek 13.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\feladat amit a pepa mondott péntek 13\feladat amit a pepa mondott péntek 13\obj\Debug\net6.0\ref\feladat amit a pepa mondott péntek 13.dll

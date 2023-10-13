@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\bin\Debug\net6.0\random.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\bin\Debug\net6.0\random.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\bin\Debug\net6.0\random.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\bin\Debug\net6.0\random.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\bin\Debug\net6.0\random.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\refint\random.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\random.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\random\random\obj\Debug\net6.0\ref\random.dll
