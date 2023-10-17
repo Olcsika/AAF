@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\bin\Debug\net6.0\tömb4.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\bin\Debug\net6.0\tömb4.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\bin\Debug\net6.0\tömb4.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\bin\Debug\net6.0\tömb4.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\bin\Debug\net6.0\tömb4.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\refint\tömb4.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\tömb4.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\tömb4\tömb4\obj\Debug\net6.0\ref\tömb4.dll
