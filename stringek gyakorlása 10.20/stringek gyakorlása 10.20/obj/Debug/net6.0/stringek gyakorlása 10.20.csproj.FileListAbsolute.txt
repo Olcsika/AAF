@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\bin\Debug\net6.0\stringek gyakorlása 10.20.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\bin\Debug\net6.0\stringek gyakorlása 10.20.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\bin\Debug\net6.0\stringek gyakorlása 10.20.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\bin\Debug\net6.0\stringek gyakorlása 10.20.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\bin\Debug\net6.0\stringek gyakorlása 10.20.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\refint\stringek gyakorlása 10.20.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\stringek gyakorlása 10.20.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\stringek gyakorlása 10.20\stringek gyakorlása 10.20\obj\Debug\net6.0\ref\stringek gyakorlása 10.20.dll

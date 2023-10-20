@@ -82,4 +82,41 @@ void szakasz2(int[] szamTomb)
     Console.WriteLine();
 }
 szakasz2(szamok);
+
 //hf csinaljunk fuggveny ami a legnagyobb csokenö sorozatot adja vissza és nem szigoruan csokennő
+
+void szakasz3(int[] szamTomb)
+{
+    int kezd = 0;
+    int veg = 0;
+    int MaxKezd = 0;
+    int MaxVeg = 0;
+
+    for (int i = 1; i < szamTomb.Length; i++)
+    {
+        if (szamTomb[i - 1] < szamTomb[i])
+        {
+
+        }
+        else
+        {
+            veg = i - 1;
+            if (veg - kezd + 1 > MaxVeg - MaxKezd + 1)
+            {
+                MaxVeg = veg;
+                MaxKezd = kezd;
+            }
+            kezd = i;
+        }
+    }
+
+    Console.WriteLine("A legnagyobb növekvő számsorozat: ", MaxVeg - MaxKezd);
+    for (int i = MaxKezd; i < MaxVeg + 1; i++)
+    {
+        Console.Write("{0}, ", szamTomb[i]);
+    }
+    Console.WriteLine();
+}
+szakasz3(szamok);
+
+// keszit egy fuggveny ami visszaad egy 10000 tagu 4 jegyu pzitiv szamokkal tartalmazó tömbot , keressuk meg a pontosan három tagu szakaszokat amik egymástol maximum 10 távolságra vannak.
