@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\bin\Debug\net6.0\gyakorlas file kezelés.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\bin\Debug\net6.0\gyakorlas file kezelés.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\bin\Debug\net6.0\gyakorlas file kezelés.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\bin\Debug\net6.0\gyakorlas file kezelés.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\bin\Debug\net6.0\gyakorlas file kezelés.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\refint\gyakorlas file kezelés.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\gyakorlas file kezelés.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\gyakorlas file kezelés\gyakorlas file kezelés\obj\Debug\net6.0\ref\gyakorlas file kezelés.dll
