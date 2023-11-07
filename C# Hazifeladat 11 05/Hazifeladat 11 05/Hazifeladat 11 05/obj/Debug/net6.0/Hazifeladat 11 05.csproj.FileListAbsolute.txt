@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.exe
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.deps.json
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.runtimeconfig.json
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.dll
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.pdb
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.dll
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\refint\Hazifeladat 11 05.dll
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.pdb
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\AAF\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\ref\Hazifeladat 11 05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\bin\Debug\net6.0\Hazifeladat 11 05.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\refint\Hazifeladat 11 05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\Hazifeladat 11 05.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\C# Hazifeladat 11 05\Hazifeladat 11 05\Hazifeladat 11 05\obj\Debug\net6.0\ref\Hazifeladat 11 05.dll

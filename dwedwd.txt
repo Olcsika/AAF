@@ -1,1 +1,0 @@
-kérjünk be egy számot majd egy tömben annyi darab szoveget ez utan keressük meg a legosszab szot es irjuk ki

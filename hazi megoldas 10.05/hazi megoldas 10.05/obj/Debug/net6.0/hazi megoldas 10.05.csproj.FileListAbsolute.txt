@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\bin\Debug\net6.0\hazi megoldas 10.05.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\bin\Debug\net6.0\hazi megoldas 10.05.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\bin\Debug\net6.0\hazi megoldas 10.05.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\bin\Debug\net6.0\hazi megoldas 10.05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\bin\Debug\net6.0\hazi megoldas 10.05.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\refint\hazi megoldas 10.05.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\hazi megoldas 10.05.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi megoldas 10.05\hazi megoldas 10.05\obj\Debug\net6.0\ref\hazi megoldas 10.05.dll
