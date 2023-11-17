@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = listák_gyakorlása_mikor_kijututtunk_az_EB_re
+build_property.ProjectDir = D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\listák gyakorlása mikor kijututtunk az EB re\listák gyakorlása mikor kijututtunk az EB re\

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "listák gyakorlása mikor kijututtunk az EB re/1.0.0": {
+        "runtime": {
+          "listák gyakorlása mikor kijututtunk az EB re.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listák gyakorlása mikor kijututtunk az EB re/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
