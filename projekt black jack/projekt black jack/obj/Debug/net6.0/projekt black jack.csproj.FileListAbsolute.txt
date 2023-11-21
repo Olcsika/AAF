@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\bin\Debug\net6.0\projekt black jack.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\bin\Debug\net6.0\projekt black jack.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\bin\Debug\net6.0\projekt black jack.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\bin\Debug\net6.0\projekt black jack.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\bin\Debug\net6.0\projekt black jack.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\refint\projekt black jack.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\projekt black jack.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\projekt black jack\projekt black jack\obj\Debug\net6.0\ref\projekt black jack.dll
