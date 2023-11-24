@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\bin\Debug\net6.0\hunor versio.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\bin\Debug\net6.0\hunor versio.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\bin\Debug\net6.0\hunor versio.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\bin\Debug\net6.0\hunor versio.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\bin\Debug\net6.0\hunor versio.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\refint\hunor versio.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\hunor versio.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hunor versio\hunor versio\obj\Debug\net6.0\ref\hunor versio.dll

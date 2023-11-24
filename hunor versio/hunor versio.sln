@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hunor versio", "hunor versio\hunor versio.csproj", "{02778C2C-D18C-4ED6-970C-0E7914FC98DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02778C2C-D18C-4ED6-970C-0E7914FC98DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02778C2C-D18C-4ED6-970C-0E7914FC98DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02778C2C-D18C-4ED6-970C-0E7914FC98DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02778C2C-D18C-4ED6-970C-0E7914FC98DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C39EA8A-83C5-4856-A42C-890FD75455D0}
+	EndGlobalSection
+EndGlobal
