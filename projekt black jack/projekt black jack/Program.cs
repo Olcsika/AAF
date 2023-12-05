@@ -94,15 +94,31 @@ while (kezdo)
         if (dontes == "stand")
         {
             Console.WriteLine("Az ön lapjai: {0}", summ2);
-            Console.WriteLine("Dealer lajai: {0}", summ);
+            while (summ < 16)
+            {
+                int randomszam = rand.Next(1, 12);
+                summ += randomszam;
+            }
+            Console.WriteLine("Dealer lapjai: {0}", summ);
 
 
 
-            if (summ > summ2)
+            if (summ > 21)
+            {
+                Console.WriteLine("Ön nyert");
+                break;
+            }
+            if (summ == 21)
+            {
+                Console.WriteLine("Enemy BlackJack, Vesztettél");
+                break;
+            }
+            else if (summ > summ2)
             {
                 Console.WriteLine("A dealer nyert.");
                 break;
             }
+
             else if (summ2 == summ)
             {
                 Console.WriteLine("Draw.");
@@ -119,15 +135,19 @@ while (kezdo)
 
         if (dontes == "hit")
         {
+           
             player.Add(rand.Next(1, 12));
             summ2 = player.AsQueryable().Sum();
+            Console.WriteLine("Az ön lapjai összege: {0}", summ2);
+            Console.WriteLine("Dealer lapjai: {0} ?", dealer[0]);
         }
 
 
         Console.WriteLine("Az ön lapjai összege: {0}", summ2);
+
         if (summ2 == 21)
         {
-            Console.WriteLine("BLACKJACK");
+            Console.WriteLine("BLACKJACK, Nyertél");
             break;
         }
 
@@ -149,7 +169,7 @@ while (kezdo)
         dealer.Clear();
         player.Clear();
         kezdo = true;
-        Console.WriteLine("---------------------------");
+        Console.WriteLine("--------------------------");
     }
     else
     {

@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\bin\Debug\net6.0\Lista filekezelés doga.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\bin\Debug\net6.0\Lista filekezelés doga.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\bin\Debug\net6.0\Lista filekezelés doga.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\bin\Debug\net6.0\Lista filekezelés doga.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\bin\Debug\net6.0\Lista filekezelés doga.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\refint\Lista filekezelés doga.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\Lista filekezelés doga.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Lista filekezelés doga\Lista filekezelés doga\obj\Debug\net6.0\ref\Lista filekezelés doga.dll
