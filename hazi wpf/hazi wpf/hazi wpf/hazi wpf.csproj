@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>hazi_wpf</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="11c.png" />
+    <None Remove="akti.jpg" />
+    <None Remove="ifa.jpg" />
+    <None Remove="sor.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="11c.png" />
+    <Resource Include="akti.jpg" />
+    <Resource Include="ifa.jpg" />
+    <Resource Include="sor.jpg" />
+  </ItemGroup>
+
+</Project>

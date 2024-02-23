@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\bin\Debug\net6.0\objektum orientált progi.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\bin\Debug\net6.0\objektum orientált progi.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\bin\Debug\net6.0\objektum orientált progi.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\bin\Debug\net6.0\objektum orientált progi.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\bin\Debug\net6.0\objektum orientált progi.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\refint\objektum orientált progi.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\objektum orientált progi.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\objektum orientált progi\objektum orientált progi\obj\Debug\net6.0\ref\objektum orientált progi.dll

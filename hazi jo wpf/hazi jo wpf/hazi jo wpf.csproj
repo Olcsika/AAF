@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>hazi_jo_wpf</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="makeitmeme_0pqWX.jpeg" />
+    <None Remove="makeitmeme_6XcOd.jpeg" />
+    <None Remove="makeitmeme_PDMKt.jpeg" />
+    <None Remove="makeitmeme_UzmRU.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="makeitmeme_0pqWX.jpeg" />
+    <Resource Include="makeitmeme_6XcOd.jpeg" />
+    <Resource Include="makeitmeme_PDMKt.jpeg" />
+    <Resource Include="makeitmeme_UzmRU.jpeg" />
+  </ItemGroup>
+
+</Project>

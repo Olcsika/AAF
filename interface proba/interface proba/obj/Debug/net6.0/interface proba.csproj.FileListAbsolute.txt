@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\bin\Debug\net6.0\interface proba.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\bin\Debug\net6.0\interface proba.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\bin\Debug\net6.0\interface proba.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\bin\Debug\net6.0\interface proba.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\bin\Debug\net6.0\interface proba.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\refint\interface proba.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\interface proba.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\interface proba\interface proba\obj\Debug\net6.0\ref\interface proba.dll

@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\bin\Debug\net6.0-windows\proba wpf.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.g.resources
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\refint\proba wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\proba wpf.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\proba wpf\proba wpf\obj\Debug\net6.0-windows\ref\proba wpf.dll

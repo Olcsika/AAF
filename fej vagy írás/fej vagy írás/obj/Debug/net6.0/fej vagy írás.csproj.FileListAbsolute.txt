@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\bin\Debug\net6.0\fej vagy írás.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\bin\Debug\net6.0\fej vagy írás.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\bin\Debug\net6.0\fej vagy írás.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\bin\Debug\net6.0\fej vagy írás.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\bin\Debug\net6.0\fej vagy írás.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\refint\fej vagy írás.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\fej vagy írás.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\fej vagy írás\fej vagy írás\obj\Debug\net6.0\ref\fej vagy írás.dll

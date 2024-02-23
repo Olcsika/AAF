@@ -1,0 +1,23 @@
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\bin\Debug\net6.0-windows\hazi wpf.exe
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\bin\Debug\net6.0-windows\hazi wpf.deps.json
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\bin\Debug\net6.0-windows\hazi wpf.runtimeconfig.json
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\bin\Debug\net6.0-windows\hazi wpf.dll
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\bin\Debug\net6.0-windows\hazi wpf.pdb
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.g.resources
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.dll
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\refint\hazi wpf.dll
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.pdb
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\ref\hazi wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi wpf\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi wpf\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\refint\hazi wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi wpf\hazi wpf\hazi wpf\obj\Debug\net6.0-windows\hazi wpf.pdb

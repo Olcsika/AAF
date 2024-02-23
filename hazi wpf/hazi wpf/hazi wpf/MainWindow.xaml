@@ -1,0 +1,38 @@
+﻿<Window x:Class="hazi_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hazi_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="kep1" Source="/sor.jpg" Margin="618,10,42,285"/>
+        <Slider x:Name="csusz1" RenderTransformOrigin="0.479,0.512" Margin="534,106,178,110" Maximum="1" SmallChange="0.01" ValueChanged="csusz1_ValueChanged">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="91.347"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Image x:Name="kep4" Margin="33,30,583,270" Source="/ifa.jpg"/>
+        <Image x:Name="kep3" Margin="53,288,577,10" Source="/11c.png"/>
+        <Image x:Name="kep2" Margin="647,288,10,24" Source="/akti.jpg"/>
+        <Slider x:Name="csusz2" Margin="343,338,343,59" Maximum="1" SmallChange="0.01" ValueChanged="csusz2_ValueChanged"/>
+        <Slider x:Name="csusz3" Margin="-64,149,747,136" RenderTransformOrigin="0.5,0.5" Maximum="1" SmallChange="0.01" ValueChanged="csusz3_ValueChanged">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.263"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="csusz4" Margin="323,54,377,328" Maximum="1" SmallChange="0.01" ValueChanged="csusz4_ValueChanged"/>
+
+    </Grid>
+</Window>

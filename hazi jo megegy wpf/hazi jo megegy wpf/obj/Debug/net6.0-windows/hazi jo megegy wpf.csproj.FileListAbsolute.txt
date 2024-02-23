@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\bin\Debug\net6.0-windows\hazi jo megegy wpf.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\bin\Debug\net6.0-windows\hazi jo megegy wpf.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\bin\Debug\net6.0-windows\hazi jo megegy wpf.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\bin\Debug\net6.0-windows\hazi jo megegy wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\bin\Debug\net6.0-windows\hazi jo megegy wpf.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.g.resources
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\refint\hazi jo megegy wpf.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\hazi jo megegy wpf.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\hazi jo megegy wpf\hazi jo megegy wpf\obj\Debug\net6.0-windows\ref\hazi jo megegy wpf.dll

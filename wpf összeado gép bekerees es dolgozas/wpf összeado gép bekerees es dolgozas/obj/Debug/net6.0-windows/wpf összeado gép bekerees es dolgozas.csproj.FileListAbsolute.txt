@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\bin\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\bin\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\bin\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\bin\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\bin\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.g.resources
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\refint\wpf összeado gép bekerees es dolgozas.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\wpf összeado gép bekerees es dolgozas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\wpf összeado gép bekerees es dolgozas\wpf összeado gép bekerees es dolgozas\obj\Debug\net6.0-windows\ref\wpf összeado gép bekerees es dolgozas.dll
