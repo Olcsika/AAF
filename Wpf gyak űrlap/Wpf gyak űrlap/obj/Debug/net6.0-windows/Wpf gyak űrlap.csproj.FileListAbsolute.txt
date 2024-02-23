@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\bin\Debug\net6.0-windows\Wpf gyak űrlap.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\bin\Debug\net6.0-windows\Wpf gyak űrlap.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\bin\Debug\net6.0-windows\Wpf gyak űrlap.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\bin\Debug\net6.0-windows\Wpf gyak űrlap.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\bin\Debug\net6.0-windows\Wpf gyak űrlap.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.g.resources
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\refint\Wpf gyak űrlap.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\Wpf gyak űrlap.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Wpf gyak űrlap\Wpf gyak űrlap\obj\Debug\net6.0-windows\ref\Wpf gyak űrlap.dll
