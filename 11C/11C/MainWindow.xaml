@@ -1,0 +1,17 @@
+﻿<Window x:Class="_11C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_11C"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="80,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="270" TextChanged="textBox_TextChanged"/>
+        <Label x:Name="label" Content="Szöveg:" HorizontalAlignment="Left" Margin="80,60,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="80,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="17" Width="270"/>
+        <CheckBox x:Name="checkBox" Content="Legyen nagybetűs" HorizontalAlignment="Left" Margin="417,138,0,0" VerticalAlignment="Top" Checked="checkBox_Checked" Unchecked="checkBox_Unchecked"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="76,200,446,66" MouseDoubleClick="listBox_MouseDoubleClick"/>
+
+    </Grid>
+</Window>

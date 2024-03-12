@@ -1,0 +1,20 @@
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\App.g.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\bin\Debug\net6.0-windows\Latin táncok.exe
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\bin\Debug\net6.0-windows\Latin táncok.deps.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\bin\Debug\net6.0-windows\Latin táncok.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\bin\Debug\net6.0-windows\Latin táncok.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\bin\Debug\net6.0-windows\Latin táncok.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.g.resources
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\refint\Latin táncok.dll
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.pdb
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\Latin táncok.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Lébár Olivér\C# AAF\AAF\Latin táncok\Latin táncok\obj\Debug\net6.0-windows\ref\Latin táncok.dll

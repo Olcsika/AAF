@@ -22,7 +22,7 @@
         <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="204,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.242,-0.388"/>
         <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="204,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.492,-0.053"/>
         <Button Content="Mentés" HorizontalAlignment="Left" Margin="204,202,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.878,0.476" Click="Button_Click_1"/>
-        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="371,33,42,257"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="371,33,42,257" SelectionChanged="listBox_SelectionChanged" MouseUp="listBox_MouseUp"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,76 @@
+﻿<Window x:Class="gyakszi_összetett_ablak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gyakszi_összetett_ablak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="Első fül">
+                <Grid Background="#FFE5E5E5" Height="263" Margin="16,0,312,0">
+                    <WrapPanel Margin="131,68,250,116">
+                        <RadioButton x:Name="radioButton" Content="első" GroupName="g1"/>
+                        <RadioButton x:Name="radioButton1" Content="második" GroupName="g1"/>
+                    </WrapPanel>
+                    <RadioButton x:Name="radioButton2" Content="három" HorizontalAlignment="Left" Margin="201,111,0,0" VerticalAlignment="Top" GroupName="g2"/>
+                    <RadioButton x:Name="radioButton3" Content="négy" HorizontalAlignment="Left" Margin="201,0,0,0" VerticalAlignment="Center" Checked="radioButton3_Checked" GroupName="g2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Második fül">
+                <Grid Background="#FFE5E5E5">
+                    <WrapPanel Margin="251,200,-7,-1" RenderTransformOrigin="0.5,0.5">
+                        <WrapPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FFD22626" Offset="1"/>
+                            </LinearGradientBrush>
+                        </WrapPanel.Background>
+                        <WrapPanel.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-0.183"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </WrapPanel.RenderTransform>
+                    </WrapPanel>
+                    <StackPanel Margin="-9,0,541,-11">
+                        <StackPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FF2AB332" Offset="1"/>
+                            </LinearGradientBrush>
+                        </StackPanel.Background>
+                    </StackPanel>
+                    <DockPanel LastChildFill="False" Margin="253,0,-10,203">
+                        <DockPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FF00A0E4" Offset="0.693"/>
+                                <GradientStop Color="#FF00364D" Offset="0.421"/>
+                            </LinearGradientBrush>
+                        </DockPanel.Background>
+                    </DockPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Harmadik fül">
+                <Grid Background="#FFE5E5E5" Margin="-2,0,2,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="101*"/>
+                        <ColumnDefinition Width="693*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Margin="73,46,336,101" Grid.Column="1">
+                        <Label x:Name="label" Content="Label"/>
+                        <CheckBox x:Name="checkBox" Content="CheckBox"/>
+                        <CheckBox x:Name="checkBox1" Content="CheckBox"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <WrapPanel/>
+        </TabControl>
+        <WrapPanel/>
+
+    </Grid>
+</Window>
