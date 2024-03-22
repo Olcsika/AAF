@@ -11,6 +11,13 @@
         <Button x:Name="button" Content="2. feladat" HorizontalAlignment="Left" Margin="116,66,0,0" VerticalAlignment="Top" Click="button_Click"/>
         <Button x:Name="button1" Content="3. feladat" HorizontalAlignment="Left" Margin="116,103,0,0" VerticalAlignment="Top" Click="button1_Click"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="204,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="170,141,412,65" SelectionChanged="listBox_SelectionChanged"/>
+        <Label x:Name="label" Content="Táncok" HorizontalAlignment="Left" Margin="95,132,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" HorizontalAlignment="Left" Margin="450,64,0,0" VerticalAlignment="Top" Height="130" Width="205">
+            <ListBox x:Name="listBox1" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="listBox1_SelectionChanged"/>
+        </Label>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Margin="550,274,0,0" VerticalAlignment="Top" Height="95" Width="156"/>
+        <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="81,274,0,0" VerticalAlignment="Top" Click="button2_Click"/>
 
     </Grid>
 </Window>

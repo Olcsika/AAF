@@ -41,6 +41,17 @@ namespace Latin_táncok
                 tancok.Add(new Class1(sorok[0], sorok[1], sorok[2]));
             }
             olvas.Close();
+
+            List<string> tancNevek = new List<string>();
+
+            for(int i = 0; i<tancok.Count;i++)
+            {
+                if (tancNevek.Contains(tancok[i].tanc))
+                {
+                    tancNevek.Add(tancok[i].tanc);
+                }
+            }
+            listBox.ItemsSource = tancNevek;
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
@@ -51,7 +62,7 @@ namespace Latin_táncok
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-
+            textBlock1.Text = "A samba-t " + tancSzamol("samba") + " táncolta";
         }
         private int tancSzamol(string tanc)
         {
@@ -66,6 +77,65 @@ namespace Latin_táncok
 
 
             return db;
+        }
+
+        private void listBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListBox lb = sender as ListBox;
+            label1.Content=tancSzamol(lb.SelectedItem.ToString());
+        }
+
+        private void listBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListBox lb = sender as ListBox;
+
+            string partner = "Ilyet nem táncolt";
+            for(int i = 0; i<tancok.Count;i++)
+            {
+                if (tancok[i].lany=="Vilma")
+                {
+                    if (tancok[i].lany == lb.SelectedItem.ToString())
+                    {
+                        partner = tancok[i].fiu;
+                    }
+                }
+               
+            }
+            label2.Content=partner;
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            List<string> lanyok = new List<string>();
+            List<string> fiuk = new List<string>();
+
+            for (int i = 0;i<tancok.Count ; i++)
+            {
+                if (!lanyok.Contains(tancok[i].lany))
+                {
+                    lanyok.Add(tancok[i].lany);
+                }
+                if (!fiuk.Contains(tancok[i].fiu))
+                {
+                    fiuk.Add(tancok[i].fiu);
+                }
+                StreamWriter ir = new StreamWriter("szereplők.txt");
+                ir.WriteLine("Lányok: {0}",String.Join(", ",lanyok));
+                ir.WriteLine("Fiuk: {0}", String.Join(", ", fiuk));
+                ir.Close();
+
+                /*
+                <tancosok>
+                    <fiuk>
+                        <nev> Kálmán</nev>
+                        <nev> Józsi</nev>
+                        <nev> Huni</nev>
+                    </fiuk>
+
+                </tancosok>
+                 
+                */
+            }
         }
     }
 }
